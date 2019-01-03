@@ -254,6 +254,10 @@ namespace JogoVelha
             {
                 buttons.Text = "";
             }
+            for (int i = 0; i < textos.Length; i++)
+            {
+                textos[i] = "";
+            }
             btnLimpar.Text = "Recomeçar";
 
             if (!turno)
