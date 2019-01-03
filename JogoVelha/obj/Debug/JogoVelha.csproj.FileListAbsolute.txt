@@ -1,0 +1,10 @@
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csprojAssemblyReference.cache
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Form1.resources
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.cache
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\jacoL\source\repos\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
