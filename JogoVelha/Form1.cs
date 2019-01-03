@@ -16,7 +16,6 @@ namespace JogoVelha
         int rodadas = 0;
         bool turno = true, fimDeJogo = false, IAJogou = false;
         Random rdn = new Random();
-
         public Form1()
         {
             InitializeComponent();
@@ -258,13 +257,12 @@ namespace JogoVelha
             {
                 textos[i] = "";
             }
-            btnLimpar.Text = "Recomeçar";
+            btnLimpar.Text = "Reiniciar";
 
             if (!turno)
             {
                 PensarIA();
             }
         }
-
     }
 }

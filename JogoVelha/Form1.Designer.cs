@@ -134,7 +134,7 @@
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(101, 28);
             this.btnLimpar.TabIndex = 9;
-            this.btnLimpar.Text = "ZERAR";
+            this.btnLimpar.Text = "Reiniciar";
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.BotaoLimpar);
             // 
